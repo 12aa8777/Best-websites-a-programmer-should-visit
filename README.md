@@ -13,6 +13,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
+<a id="index"></a>
 ## 📖 Index
 <ul>
 <li><a href="#-when-you-get-stuck">When you get stuck</a></li>
